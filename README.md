@@ -16,12 +16,12 @@
 - Account used to create SESSION is a member in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SkDragonflay/Auto-Delete-Bot)
 
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/TG-V4MP1R3/Auto-Delete-Bot
+https://github.com/SkDragonflay/Auto-Delete-Bot
 cd Auto-Delete-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
